@@ -2,7 +2,7 @@
 
 welcome, hello world! 🌎 
 
-We've got a few set-up tasks to get started ... the following is due by **Monday Feb. 30rd by 11:59pm**:
+We've got a few set-up tasks to get started ... the following is due by **Friday Jan. 31st by 11:59pm**:
 
 1. **Read the [syllabus](https://github.com/mab253/cpp_spring25/blob/main/README.md)!** Please read-through the entire doc - includes a lot of helpful info about the structure of the course
 
