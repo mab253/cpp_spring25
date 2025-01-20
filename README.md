@@ -63,7 +63,7 @@ Also begin zyBooks, Week 1 Readings
 
 ---
 
-**Week 1: Feb. 3 * Feb. 5** \
+**Week 1: Feb. 3 & Feb. 5** \
 *Beginnings of Computing and C++*
 
 **🎥 VIDEO LECTURE, no in-person lecture**
