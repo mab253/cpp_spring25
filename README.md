@@ -80,7 +80,7 @@ zyBooks Week 1 Lab: DUE Feb. 7, 11:59pm
 **🎥 VIDEO LECTURE, no in-person lecture**
 
 **Assignments:** \
-zyBooks Week 2, Readings 1 & 2 & Lab DUE Feb. 14, 11:59pm \
+zyBooks Week 2, Readings 1 & 2 & Lab DUE Feb. 14, 11:59pm 
 
 
 ---
