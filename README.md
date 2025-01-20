@@ -81,7 +81,7 @@ zyBooks Week 1 Lab: DUE Feb. 7, 11:59pm
 
 **Assignments:** \
 zyBooks Week 2, Readings: DUE Feb. 12, 11:59pm \
-zyBooks Week 2 Lab: DUE Sept. 14, 11:59pm
+zyBooks Week 2 Lab: DUE Feb. 14, 11:59pm
 
 
 ---
