@@ -25,9 +25,9 @@ This is an introduction to computing, intended for those majoring in computer sc
 
 This course will generally meet **in-person**, with a lecture 2 mornings per week (M/W). There is also a (required) recitation on Fridays with Prof. Riddhi Kadia.
 
-🎥 This semester, I will be finishing up a research trip in the Southern Ocean (Antarctica!) when the class begins. There will be no in-person lecture until **Feb 18th.** During these initial weeks, I will film a lecture instead of giving one in person. When I post a video, you will be free to watch it in your own time. Any asynchronous lectures will be clearly marked on the schedule.
+🎥 This semester, I will be finishing up a research trip in the Southern Ocean (Antarctica!) when the class begins. There will be no in-person lecture until **Feb 18th.** During these initial weeks, I will film a lecture instead of giving one in person, and you will be responsible for learning via the video material and the zyBooks homework. When I post a video, you will be free to watch it in your own time asynchronously. 
 
-🖥️ Note that there will be in-person labs every Friday, starting Jan. 31st! In the case of any change in the schedule, I will announce this change ahead of time via e-mail.
+🖥️ In-person lab sessions will be every Friday starting **Feb. 14th**. In case of any further changes in the schedule, I will announce this change ahead of time via e-mail and update the syllabus here.
 
 We will use an online textbook (zyBooks) to guide us through learning C++. In the zyBooks platform, you will have readings with interactive homework exercises, as well as labs (like programming problem sets) from the same textbook.
 
