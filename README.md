@@ -3,7 +3,7 @@
 **Instructor:** Professor Madeline Blount \
 **Term:** Spring 2025 \
 **Time:** Mondays/Wednesdays 11:00-11:50am (lecture) \
-**Space:** NAC 1/203 (lecture) \
+**Space:** Marshak 4 (lecture) \
 **Recitation:** lab on Fridays (time + room based on section, CC1 or CC2), w/Professor Riddhi Kadia \
 **Office Hours:** virtual by appointment, [schedule here](https://www.cal.com/mab253) \
 **E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Riddhi Kadia - `rkadia@ccny.cuny.edu` \
