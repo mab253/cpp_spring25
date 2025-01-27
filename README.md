@@ -55,7 +55,7 @@ There will be a mid-term project in this course, and a programming project towar
 **Week 0: Jan. 27** \
 *Introductions, Hello World!*
 
-**🎥 VIDEO LECTURE, no in-person lecture**
+**🎥 [VIDEO LECTURE](https://www.loom.com/share/54a20d74aa97445394d592fbc0fcd2a7?sid=b9f877ab-9d8b-488a-b9d1-32718084dd07), no in-person lecture**
 
 **Assignment:** [set-up assignments + survey here](https://github.com/mab253/cpp_spring25/blob/main/week0.md) \
 **SET-UP + SURVEY DUE:** Friday Jan. 31st, 11:59pm \
