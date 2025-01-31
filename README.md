@@ -141,7 +141,7 @@ zyBooks Week 7 Lab: DUE Mar. 21, 11:59pm
 
 ---
 
-**Week 9: Apr. 2
+**Week 9: Apr. 2** \
 *Functions*
 
 **Assignments:** \
