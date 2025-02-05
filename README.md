@@ -66,7 +66,7 @@ Also begin zyBooks, Week 1 Readings
 **Week 1: Feb. 3 & Feb. 5** \
 *Beginnings of Computing and C++*
 
-**🎥 VIDEO LECTURE, no in-person lecture**
+**🎥 [VIDEO LECTURE](https://github.com/mab253/cpp_spring25/blob/main/week1/resources.md), no in-person lecture**
 
 **Assignments:** \
 zyBooks Week 1, Readings: DUE Feb. 5, 11:59pm \
