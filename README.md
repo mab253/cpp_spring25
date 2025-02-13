@@ -77,10 +77,11 @@ zyBooks Week 1 Lab: DUE Feb. 7, 11:59pm
 **Week 2: Feb. 10** \
 *Variables and Data Types*
 
-**🎥 VIDEO LECTURE, no in-person lecture**
+**🎥 [VIDEO LECTURE](https://www.loom.com/share/338808d606fe499cba67f86fde7339bb), no in-person lecture**
 
 **Assignments:** \
-zyBooks Week 2, Readings 1 & 2 & Lab DUE Feb. 14, 11:59pm 
+zyBooks Week 2, Readings 1 & 2 DUE Feb. 14, 11:59pm  \
+zyBookes Week 2 Lab: DUE Feb. 16th, 11:59pm 💥**CHANGE, extension**
 
 
 ---
