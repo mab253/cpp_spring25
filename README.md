@@ -93,7 +93,7 @@ zyBookes Week 2 Lab: DUE Feb. 16th, 11:59pm 💥**CHANGE, extension**
 **Tues. Feb. 18th follows a Monday schedule**
 
 **Assignments:** \
-zyBooks Week 3, Readings: DUE Feb. 19, 11:59pm \
+zyBooks Week 3, Readings: DUE Feb. 20, 11:00am 💥CHANGE!\
 zyBooks Week 3 Lab: DUE Feb. 21, 11:59pm
 
 
