@@ -146,7 +146,8 @@ zyBooks Week 7 Lab: DUE Mar. 21, 11:59pm
 *Functions*
 
 **Assignments:** \
-zyBooks Week 9 Reading & Lab: DUE Apr. 4, 11:59pm
+zyBooks Week 9 Readings: DUE Apr. 2, 11:59pm \
+zyBooks Week 9 Lab: DUE Apr. 4, 11:59pm
 
 ---
 
@@ -154,8 +155,8 @@ zyBooks Week 9 Reading & Lab: DUE Apr. 4, 11:59pm
 *Objects + Classes*
 
 **Assignments:** \
-zyBooks Week 10, Readings: DUE Apr. 9, 11:59pm \
-zyBooks Week 10, Lab: DUE Apr. 11, 11:59pm
+zyBooks Week 10 Readings: DUE Apr. 9, 11:59pm \
+zyBooks Week 10 Lab: DUE Apr. 11, 11:59pm
 
 ---
 
