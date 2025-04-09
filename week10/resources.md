@@ -2,6 +2,7 @@
 
 practice resources for classes + other topics this week:
 - **in-class code 🖥️**: [Movies, classes/objects example](https://replit.com/@mab253/movies-objects#main.cpp)
+- **in-class code 🖥️**: [cubes, examples of functions](https://replit.com/@mab253/cubed-functions#main.cpp)
 - openFrameworks - creative coding! [website](https://openframeworks.cc/), downloads, documentation, etc.
 - openFrameworks [book](https://openframeworks.cc/ofBook/chapters/foreword.html) - recommended, info on OOP generally + tutorials
 - Codecademy reference sheet for [Classes + Objects](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-classes-and-objects/cheatsheet)
