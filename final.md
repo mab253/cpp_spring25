@@ -3,7 +3,7 @@
 For your final project in this class, you will code a C++ project from scratch (outside of zyBooks!). You have a few options for this assignment, and you'll need to choose 1 of the following:
 
 1. [🛡 Text-Based Adventure Game](#text-based-adventure-game)
-2. [🧊 QR Code Generator](#spatial-data-analyzer)
+2. [🧊 QR Code Generator](#qr-code-generator)
 3. [🎨 Your Own Design](#your-own-design)
 
 There are specific requirements for each option, but all of your final projects will require:
